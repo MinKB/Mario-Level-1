@@ -1,11 +1,11 @@
 __author__ = 'justinarmstrong'
 
-SCREEN_HEIGHT = 600
-SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 400
+SCREEN_WIDTH = 600
 
 SCREEN_SIZE = (SCREEN_WIDTH,SCREEN_HEIGHT)
 
-ORIGINAL_CAPTION = "Super Mario Bros 1-1"
+ORIGINAL_CAPTION = "Super Mario Bros my Version"
 
 ## COLORS ##
 
